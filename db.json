@@ -1,7 +1,11 @@
 {
-  "coord": {
-    "lon": -122.08,
-    "lat": 37.39
-  },
-  "temp": 282.55
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
